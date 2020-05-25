@@ -1,0 +1,466 @@
+
+
+Starting Toontown...
+Current time: Mon Jul 26 18:43:52 2010 ���� (�W����)
+sys.path =  ['']
+sys.argv =  ['C:\\Program Files\\Disney\\Disney Online\\Toontown_JP\\Toontown.exe', '-OO', 'https://igameserver.jp.toontown.com', 'https://account.toontown.com', '0', '-pickbestres -DX8 -NoOverride ']
+os.environ =  {'TMP': 'C:\\Users\\AKY\\AppData\\Local\\Temp', 'COMPUTERNAME': 'AKY-PC', 'USERDOMAIN': 'AKY-PC', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'x86 Family 6 Model 15 Stepping 13, GenuineIntel', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '0f0d', 'SYSTEMROOT': 'C:\\Windows', 'PATH': ';C:\\Program Files\\Internet Explorer;;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Program Files\\QuickTime\\QTSystem\\', 'COMSPEC': 'C:\\Windows\\system32\\cmd.exe', 'TEMP': 'C:\\Users\\AKY\\AppData\\Local\\Temp', 'PROCESSOR_ARCHITECTURE': 'x86', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'SESSIONNAME': 'Console', 'HOMEPATH': '\\Users\\AKY', 'USERNAME': 'AKY', 'LOGONSERVER': '\\\\AKY-PC', 'LOCALAPPDATA': 'C:\\Users\\AKY\\AppData\\Local', 'PROGRAMDATA': 'C:\\ProgramData', 'TRACE_FORMAT_SEARCH_PATH': '\\\\NTREL202.ntdev.corp.microsoft.com\\4F18C3A5-CA09-4DBD-B6FC-219FDD4C6BE0\\TraceFormat', 'PYTHONPATH': '', 'CLASSPATH': '.;C:\\Program Files\\Java\\jre6\\lib\\ext\\QTJava.zip', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'ASL.LOG': 'Destination=file;OnFirstLog=command,environment', 'FP_NO_HOST_CHECK': 'NO', 'WINDIR': 'C:\\Windows', 'APPDATA': 'C:\\Users\\AKY\\AppData\\Roaming', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '1', 'PROCESSOR_LEVEL': '6', 'DFSTRACINGON': 'FALSE', 'USERPROFILE': 'C:\\Users\\AKY', 'OS': 'Windows_NT', 'PUBLIC': 'C:\\Users\\Public', 'QTJAVA': 'C:\\Program Files\\Java\\jre6\\lib\\ext\\QTJava.zip'}
+generating configrc using: '-pickbestres -DX8 -NoOverride '
+:LauncherBase:info: isTestServer: 0
+:LauncherBase:info: getRegistry('DOWNLOAD_SERVER', '')
+:LauncherBase:info: Download Server List http://download.toontown.disneygames.jp/
+:LauncherBase:info: Using download server http://download.toontown.disneygames.jp/.
+:LauncherBase:info: Game Server https://igameserver.jp.toontown.com
+:LauncherBase:info: getRegistry('INSTALL_DIR', '.')
+:LauncherBase:info: getRegistry('FROM_CD', None)
+:LauncherBase:info: patch directory is 0
+:LauncherBase:info: ﾄｩｰﾝﾀｳﾝをｽﾀｰﾄしています…
+:LauncherBase:info: getRegistry('PROXY_SERVER', '')
+:LauncherBase:info: getRegistry('PROXY_DIRECT_HOSTS', '')
+:LauncherBase:info: Proxy spec is: 
+:LauncherBase:info: Direct hosts list is: *.local
+:LauncherBase:info: No proxy for download.
+:LauncherBase:info: ***http://download.toontown.disneygames.jp/sv1.2.39.5/launcherFileDb
+:07-26-2010 18:43:52 :downloader: Connecting to download.toontown.disneygames.jp:80
+:LauncherBase:info: Download server: http://download.toontown.disneygames.jp/
+:LauncherBase:info: foreground: Launcher now operating in foreground
+:LauncherBase:info: prepareClient: Preparing client for install
+:LauncherBase:info: Downloading launcherFileDb
+:LauncherBase:info: ***http://download.toontown.disneygames.jp/sv1.2.39.5/launcherFileDb
+:LauncherBase:info: Download request: http://download.toontown.disneygames.jp/sv1.2.39.5/launcherFileDb
+:LauncherBase:info: getRegistry('WEB_ACCT_PARAMS', None)
+:LauncherBase:info: secretNeedsParentPassword = 0
+:LauncherBase:info: chatEligibleKey = 1
+:07-26-2010 18:43:52 :downloader: Connecting to download.toontown.disneygames.jp:80
+:LauncherBase:info: 初期化中の (0/13)のｱｯﾌﾟﾃﾞｰﾄをﾀﾞｳﾝﾛｰﾄﾞ中: 0%
+:LauncherBase:info: HTTP status 200: OK
+:LauncherBase:info: 初期化中の (0/13)のｱｯﾌﾟﾃﾞｰﾄをﾀﾞｳﾝﾛｰﾄﾞ中: 100%
+:LauncherBase:info: downloadTask: Download done: http://download.toontown.disneygames.jp/sv1.2.39.5/launcherFileDb
+:LauncherBase:info: Validating Launcher files
+:LauncherBase:info: Downloading server db file
+:LauncherBase:info: ﾄｩｰﾝﾀｳﾝをｱｯﾌﾟﾃﾞｰﾄ中…
+:LauncherBase:info: ***http://download.toontown.disneygames.jp/sv1.2.39.5/content/server.ddb.pz
+:LauncherBase:info: Download request: http://download.toontown.disneygames.jp/sv1.2.39.5/content/server.ddb.pz
+:LauncherBase:info: 初期化中の (0/13)のｱｯﾌﾟﾃﾞｰﾄをﾀﾞｳﾝﾛｰﾄﾞ中: 0%
+:LauncherBase:info: HTTP status 200: OK
+:LauncherBase:info: 初期化中の (0/13)のｱｯﾌﾟﾃﾞｰﾄをﾀﾞｳﾝﾛｰﾄﾞ中: 100%
+:LauncherBase:info: downloadTask: Download done: http://download.toontown.disneygames.jp/sv1.2.39.5/content/server.ddb.pz
+:LauncherBase:info: total phases to be downloaded = 128480940
+:LauncherBase:info: Client Db exists
+:LauncherBase:info: Creating downloadDb
+:LauncherBase:info: ﾄｩｰﾝﾀｳﾝをｱｯﾌﾟﾃﾞｰﾄ中…
+:LauncherBase:info: Client file name: /c/Program Files/Disney/Disney Online/Toontown_JP/client.ddb
+:LauncherBase:info: Finished decompress
+:LauncherBase:info: created download db
+:LauncherBase:info: Updating multifiles in phase: 3
+:LauncherBase:info: phase updating 3, 0
+:LauncherBase:info: Downloading multifile: phase_3.mf.pz
+:LauncherBase:info: Multifile already complete: phase_3.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_3.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_3.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_3.mf.pz
+:LauncherBase:info: ﾄｩｰﾝの (1/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_3.mf.pz
+:TaskManagerwarning: task launcher-download ran for 4.85 seconds
+:LauncherBase:info: ﾄｩｰﾝﾀｳﾝをｱｯﾌﾟﾃﾞｰﾄ中…
+:LauncherBase:info: phase updating 3, 100
+:LauncherBase:info: Done updating multifiles in phase: 3
+:LauncherBase:info: progress so far 25
+:LauncherBase:info: Updating multifiles in phase: 3.5
+:LauncherBase:info: phase updating 3.5, 0
+:LauncherBase:info: Downloading multifile: phase_3.5.mf.pz
+:LauncherBase:info: Multifile already complete: phase_3.5.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_3.5.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_3.5.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_3.5.mf.pz
+:LauncherBase:info: ﾄｩｰﾝﾄﾘｱﾙの (2/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_3.5.mf.pz
+:LauncherBase:info: phase updating 3.5, 100
+:LauncherBase:info: Done updating multifiles in phase: 3.5
+:LauncherBase:info: progress so far 40
+:LauncherBase:info: Updating multifiles in phase: 4
+:LauncherBase:info: phase updating 4, 0
+:LauncherBase:info: Downloading multifile: phase_4.mf.pz
+:LauncherBase:info: Multifile already complete: phase_4.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_4.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_4.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_4.mf.pz
+:LauncherBase:info: ﾌﾟﾚｲｸﾞﾗｳﾝﾄﾞの (3/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_4.mf.pz
+:LauncherBase:info: phase updating 4, 100
+:LauncherBase:info: Done updating multifiles in phase: 4
+:LauncherBase:info: progress so far 52
+:LauncherBase:info: Updating multifiles in phase: 5
+:LauncherBase:info: phase updating 5, 0
+:LauncherBase:info: Downloading multifile: phase_5.mf.pz
+:LauncherBase:info: Multifile already complete: phase_5.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_5.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_5.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_5.mf.pz
+:LauncherBase:info: ｽﾄﾘｰﾄの (4/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_5.mf.pz
+:LauncherBase:info: phase updating 5, 100
+:LauncherBase:info: Done updating multifiles in phase: 5
+:LauncherBase:info: progress so far 69
+:LauncherBase:info: Updating multifiles in phase: 5.5
+:LauncherBase:info: phase updating 5.5, 0
+:LauncherBase:info: Downloading multifile: phase_5.5.mf.pz
+:LauncherBase:info: Multifile already complete: phase_5.5.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_5.5.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_5.5.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_5.5.mf.pz
+:LauncherBase:info: おうちの (5/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_5.5.mf.pz
+:LauncherBase:info: phase updating 5.5, 100
+:LauncherBase:info: Done updating multifiles in phase: 5.5
+:LauncherBase:info: progress so far 77
+:LauncherBase:info: Updating multifiles in phase: 6
+:LauncherBase:info: phase updating 6, 0
+:LauncherBase:info: Downloading multifile: phase_6.mf.pz
+:LauncherBase:info: Multifile already complete: phase_6.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_6.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_6.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_6.mf.pz
+:LauncherBase:info: ｴﾘｱ①の (6/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_6.mf.pz
+:LauncherBase:info: phase updating 6, 100
+:LauncherBase:info: Done updating multifiles in phase: 6
+:LauncherBase:info: progress so far 84
+:LauncherBase:info: Updating multifiles in phase: 7
+:LauncherBase:info: phase updating 7, 0
+:LauncherBase:info: Downloading multifile: phase_7.mf.pz
+:LauncherBase:info: Multifile already complete: phase_7.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_7.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_7.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_7.mf.pz
+:LauncherBase:info: コグの (7/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_7.mf.pz
+:LauncherBase:info: phase updating 7, 100
+:LauncherBase:info: Done updating multifiles in phase: 7
+:LauncherBase:info: progress so far 89
+:LauncherBase:info: Updating multifiles in phase: 8
+:LauncherBase:info: phase updating 8, 0
+:LauncherBase:info: Downloading multifile: phase_8.mf.pz
+:LauncherBase:info: Multifile already complete: phase_8.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_8.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_8.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_8.mf.pz
+:LauncherBase:info: ｴﾘｱ②の (8/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_8.mf.pz
+:LauncherBase:info: phase updating 8, 100
+:LauncherBase:info: Done updating multifiles in phase: 8
+:LauncherBase:info: progress so far 94
+:LauncherBase:info: Updating multifiles in phase: 9
+:LauncherBase:info: phase updating 9, 0
+:LauncherBase:info: Downloading multifile: phase_9.mf.pz
+:LauncherBase:info: Multifile already complete: phase_9.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_9.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_9.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_9.mf.pz
+:LauncherBase:info: コグ本部の (9/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_9.mf.pz
+:LauncherBase:info: phase updating 9, 100
+:LauncherBase:info: Done updating multifiles in phase: 9
+:LauncherBase:info: progress so far 96
+:LauncherBase:info: Updating multifiles in phase: 10
+:LauncherBase:info: phase updating 10, 0
+:LauncherBase:info: Downloading multifile: phase_10.mf.pz
+:LauncherBase:info: Multifile already complete: phase_10.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_10.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_10.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_10.mf.pz
+:LauncherBase:info: マネーボット本部の (10/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_10.mf.pz
+:LauncherBase:info: phase updating 10, 100
+:LauncherBase:info: Done updating multifiles in phase: 10
+:LauncherBase:info: progress so far 97
+:LauncherBase:info: Updating multifiles in phase: 11
+:LauncherBase:info: phase updating 11, 0
+:LauncherBase:info: Downloading multifile: phase_11.mf.pz
+:LauncherBase:info: Multifile already complete: phase_11.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_11.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_11.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_11.mf.pz
+:LauncherBase:info: ロウボット本部の (11/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_11.mf.pz
+:LauncherBase:info: phase updating 11, 100
+:LauncherBase:info: Done updating multifiles in phase: 11
+:LauncherBase:info: progress so far 98
+:LauncherBase:info: Updating multifiles in phase: 12
+:LauncherBase:info: phase updating 12, 0
+:LauncherBase:info: Downloading multifile: phase_12.mf.pz
+:LauncherBase:info: Multifile already complete: phase_12.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_12.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_12.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_12.mf.pz
+:LauncherBase:info: ボスボット HQの (12/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_12.mf.pz
+:LauncherBase:info: phase updating 12, 100
+:LauncherBase:info: Done updating multifiles in phase: 12
+:LauncherBase:info: progress so far 99
+:LauncherBase:info: Updating multifiles in phase: 13
+:LauncherBase:info: phase updating 13, 0
+:LauncherBase:info: Downloading multifile: phase_13.mf.pz
+:LauncherBase:info: Multifile already complete: phase_13.mf.pz
+:LauncherBase:info: decompressMultifile: Multifile already decompressed: phase_13.mf.pz
+:LauncherBase:info: extractMultifile: Multifile already extracted: phase_13.mf.pz
+:LauncherBase:info: extractMultifileDone: Finished updating multifile: phase_13.mf.pz
+:LauncherBase:info: ﾊﾟｰﾃｨｰの (13/13)のｱｯﾌﾟﾃﾞｰﾄを確認中…
+:LauncherBase:info: patchMultifile: Checking for patches on multifile: phase_13.mf.pz
+:LauncherBase:info: phase updating 13, 100
+:LauncherBase:info: Done updating multifiles in phase: 13
+:LauncherBase:info: progress so far 100
+:LauncherBase:info: ALL PHASES COMPLETE
+:LauncherBase:info: maybeStartGame: starting game
+:LauncherBase:info: ﾄｩｰﾝﾀｳﾝをスタート中…
+:LauncherBase:info: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+:LauncherBase:info: getRegistry('GAME2_DONE', 0)
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+Warning: DirectNotify: category 'Interval' already exists
+OTPLocalizer: Running in language: japanese
+:LauncherBase:info: setting panda error code to 7
+:07-26-2010 18:44:05 :display: loading display module: libpandadx8.dll
+Known pipe types:
+  wdxGraphicsPipe8
+(2 aux display modules not yet loaded.)
+:07-26-2010 18:44:06 :display:windisplay: begin QueryPerformanceFrequency
+:07-26-2010 18:44:07 :display:windisplay: QueryPerformanceFrequency: 14318180
+:07-26-2010 18:44:07 :display:windisplay: CPU frequency: 1995000996
+:07-26-2010 18:44:07 :display:windisplay: start CPU ID
+:07-26-2010 18:44:07 :display:windisplay: end CPU ID
+:07-26-2010 18:44:07 :display:windisplay: OS version: 6.0.2.6001 
+:07-26-2010 18:44:07 :display:windisplay:   Service Pack 1
+:07-26-2010 18:44:07 :display:windisplay: max Mhz 1995000000, current Mhz 1995000000 
+:07-26-2010 18:44:07 :display:wdxdisplay8: GetAvailableVidMem (including AGP) returns Total: 263301120, Free: 256245120 for device #0
+:07-26-2010 18:44:07 :display:wdxdisplay8: GetAvailableVidMem (no AGP) returns Total: 134217728, Free: 127161728 for device #0
+:07-26-2010 18:44:07 :display:wdxdisplay8: SetLowVidMem flag to 0 based on adjusted VidMemTotal: 134217728
+:ToonBase:info: Default graphics pipe is DirectX8 (wdxGraphicsPipe8).
+:07-26-2010 18:44:07 :display:wdxdisplay8: D3D8.1 Adapter[0]: Mobile Intel(R) 4 Series Express Chipset Family, Driver: igdumdx32.dll, DriverVersion: (7.15.10.1527)
+VendorID: 0x00008086 DeviceID: 0x00002A42 SubsysID: 0x00191B0A Revision: 0x00000007
+:07-26-2010 18:44:09 :display:wdxdisplay8: walla: device03DE97B8:2
+:07-26-2010 18:44:10 :display: Unable to set window properties: !undecorated icon:toontown.ico 
+:07-26-2010 18:44:11 :audio:   using Miles software midi
+:ShowBase:info: __dev__ == 0
+:07-26-2010 18:44:32 LauncherBase:info: setting panda error code to 11
+:07-26-2010 18:44:11 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/HGHeiseiMarugothictaiW8.ttc
+:07-26-2010 18:44:11 :pnmtext: Loaded font HGHeiseiMarugothictaiW8 Regular
+:07-26-2010 18:44:32 LauncherBase:info: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv1.2.39.5
+:07-26-2010 18:44:32 Loader:info: starting bulk load of block 'init'
+TTAccount: accountServer from launcher:  https://account.toontown.com
+<frozen>:38: DeprecationWarning: the whrandom module is deprecated; please use the random module
+Warning: DirectNotify: category 'PartyInfo' already exists
+Warning: DirectNotify: category 'DirectRegion' already exists
+Warning: DirectNotify: category 'DirectRegion' already exists
+Warning: DirectNotify: category 'PlantingGUI' already exists
+Warning: DirectNotify: category 'PlantingGUI' already exists
+Warning: DirectNotify: category 'ToonAvatarDetailPanel' already exists
+Warning: DirectNotify: category 'Purchase' already exists
+Warning: DirectNotify: category 'ChooseAvatarPanel' already exists
+Warning: DirectNotify: category 'CatalogNotifyDialog' already exists
+Warning: DirectNotify: category 'PathMasterEntity' already exists
+Warning: DirectNotify: category 'LawbotOfficeExterior' already exists
+:07-26-2010 18:44:32 OTPClientRepository:info: Using connect method 'http'
+Warning: DirectNotify: category 'MovieThrow' already exists
+Warning: DirectNotify: category 'DistributedMinigame' already exists
+Warning: DirectNotify: category 'MakeClothesGUI' already exists
+Warning: DirectNotify: category 'DistributedElevator' already exists
+Warning: DirectNotify: category 'DistributedLawOffice' already exists
+Warning: DirectNotify: category 'DistributedGoon' already exists
+:07-26-2010 18:44:14 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/MickeyFont.bam
+Warning: DirectNotify: category 'DistributedGardenPlot' already exists
+Warning: DirectNotify: category 'DistributedPhysicsWorld' already exists
+Warning: DirectNotify: category 'DistributedPartyCannon' already exists
+Warning: DirectNotify: category 'DistributedPartyDanceActivity' already exists
+Warning: DirectNotify: category 'DistributedPartyDanceActivity' already exists
+Warning: DirectNotify: category 'DistributedPartyJukeboxActivity' already exists
+Warning: DirectNotify: category 'DistributedElevatorFloor' already exists
+Warning: DirectNotify: category 'DistributedMinigamePhysicsWorld' already exists
+:07-26-2010 18:44:32 LauncherBase:info: getRegistry('TOONTOWN_BLUE', None)
+:07-26-2010 18:44:32 LauncherBase:info: getRegistry('TOONTOWN_PLAYTOKEN', None)
+:07-26-2010 18:44:32 LauncherBase:info: getRegistry('DISLTOKEN', None)
+:07-26-2010 18:44:32 LoginWebPlayTokenAccount:info: self.useTTSpecificLogin =0
+:07-26-2010 18:44:32 OTPClientRepository:info: loginInterface: LoginWebPlayTokenAccount
+:07-26-2010 18:44:32 Loader:info: At end of block 'init', expected 138, loaded 24
+:07-26-2010 18:44:32 ToonBase:info: Using gameServer from launcher: https://igameserver.jp.toontown.com 
+:07-26-2010 18:44:32 OTPClientRepository:info: Connecting to gameserver directly (no proxy).
+:07-26-2010 18:44:32 OTPClientRepository:info: Connecting to s://igameserver.jp.toontown.com:6667 via HTTP interface.
+:07-26-2010 18:44:32 LauncherBase:info: cleanup: cleaning up Launcher
+:07-26-2010 18:44:32 TaskManager(warning): task patchAndHash ran for 15.52 seconds
+:07-26-2010 18:44:15 :downloader: Connecting to igameserver.jp.toontown.com:6667
+:07-26-2010 18:44:32 ToonBase:info: Got window event: origin=(0, 0) size=(800, 600) title="Toontown" !undecorated fullscreen foreground !minimized open !cursor_hidden icon:toontown.ico cursor:toonmono.cur absolute 
+:07-26-2010 18:44:15 :downloader: Appending 5 SSL certificates from phase_3/etc/certificates.txt
+:07-26-2010 18:44:15 :downloader: Appending 1 SSL certificates from phase_3/etc/gameserver.txt
+:07-26-2010 18:44:17 :downloader: Expired certificate from igameserver.jp.toontown.com:6667
+:07-26-2010 18:44:32 LauncherBase:info: getRegistry('IS_NEW_INSTALLATION', 1)
+:07-26-2010 18:44:32 LoginScreen:info: Chat from game server login: 1
+:07-26-2010 01:44:48 LoginScreen:info: Notify clock adjusted by 0:00 (and timezone adjusted by -17 hours) to synchronize with server.
+:07-26-2010 01:44:48 LoginScreen:info: Paid from game server login: 1
+:07-26-2010 01:44:48 LoginScreen:info: Minutes remaining from server -1
+:07-26-2010 01:44:48 LoginScreen(warning): Negative minutes remaining for paid user (?)
+:07-26-2010 01:44:48 LoginScreen:info: last logged in = 2010-07-26 02:43:42
+:07-26-2010 01:44:48 LoginScreen:info: Login response return code 0
+:07-26-2010 01:44:48 OTPClientRepository:info: *** ACCOUNT INFO ***
+:07-26-2010 01:44:48 OTPClientRepository:info: username: ky_ayu77_ky@yahoo.co.jp
+:07-26-2010 01:44:48 OTPClientRepository:info: paid: 1
+{301000000L: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0E66D198>, 302000000L: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0E66DFA8>, 501000000L: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x0E66DF30>}
+:07-26-2010 01:44:18 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/DFKyG7.ttc
+:07-26-2010 01:44:19 :pnmtext: Loaded font DFPKyoGeki-W7 Regular
+:07-26-2010 01:46:02 :downloader: Connecting to download.toontown.com:80
+:07-26-2010 01:46:56 OTPClientRepository:info: ================
+:07-26-2010 01:46:56 OTPClientRepository:info: Chose avatar id: 100196214
+:07-26-2010 01:46:56 OTPClientRepository:info: Chose avatar name: コーラルドッグ
+:07-26-2010 01:46:56 OTPClientRepository:info: Chose avatar dna: ('dss', 'ms', 'm', 'm', 8L, 0L, 8L, 8L, 52L, 27L, 41L, 27L, 13L, 27L)
+:07-26-2010 01:46:56 OTPClientRepository:info: Chose avatar position: 3
+:07-26-2010 01:46:56 OTPClientRepository:info: isPaid: 1
+:07-26-2010 01:46:56 OTPClientRepository:info: freeTimeLeft: 0
+:07-26-2010 01:46:56 OTPClientRepository:info: allowSecretChat: 1
+:07-26-2010 01:46:56 OTPClientRepository:info: ================
+:07-26-2010 01:46:56 OTPClientRepository(warning): Don't know who friend 102315890 is.
+:07-26-2010 01:46:56 Loader:info: starting bulk load of block 'localAvatarPlayGame'
+:07-26-2010 01:46:56 OTPClientRepository:info: Sending heartbeat mid-frame.
+init control manager True
+:07-26-2010 01:46:56 Actor(warning): no part named head-front*!
+:07-26-2010 01:46:56 Actor(warning): no part named eyes*!
+local
+:07-26-2010 01:46:11 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/DFKai3.ttc
+:07-26-2010 01:46:11 :pnmtext: Loaded font �c�e�o�מ����� Regular
+:07-26-2010 01:46:56 NewsPageButtonManager(warning): Should not get here. NewsPageButtonManager.exitOff
+:07-26-2010 01:46:12 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/HGHanKointai.ttc
+:07-26-2010 01:46:12 :pnmtext: Loaded font HGHanKointai Regular
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 24038
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 21491
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 24038
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 24038
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 24038
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 21491
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 21491
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 21491
+:07-26-2010 01:46:13 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:46:17 :text(warning): No definition in MickeyFont_japanese.egg for character 26178
+:07-26-2010 01:46:17 :text(warning): No definition in MickeyFont_japanese.egg for character 38291
+:07-26-2010 01:46:17 :text(warning): No definition in MickeyFont_japanese.egg for character 26376
+:07-26-2010 01:46:18 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:46:56 OTPClientRepository:info: Entering shard 302000000
+:07-26-2010 01:46:56 OTPClientRepository:info: Got query response for avatar 100354928, code = 0.
+:07-26-2010 01:46:56 OTPClientRepository:info: Sending heartbeat mid-frame.
+:07-26-2010 01:46:56 DistributedPet(warning): ｻｯｸｽﾌｫｰﾝ was not present...
+:07-26-2010 01:46:56 TaskManager(warning): task readerPollTask ran for 15.12 seconds
+:07-26-2010 01:46:56 NewsManager:info: setHolidayId: Starting Holiday 10
+:07-26-2010 01:46:56 ToontownTimeManager(warning): error parsing date string=
+:07-26-2010 01:46:56 InGameNewsMgr:info: latestIssue=2010-07-26 18:46:32.739197+09:00
+:07-26-2010 01:46:56 TimeManager:info: Clock sync: startup
+frame rate: 54.8 fps|0.022d|0 avs||128|146||0x8086|0x2a42|193.5MB|231.3MB|951.4MB|144|nt.2.6.0|1.995,1.995
+:07-26-2010 01:46:56 TimeManager:info: Clock sync roundtrip took 430.573 ms
+:07-26-2010 01:46:56 TimeManager:info: AI time delta is -0:21 from server delta
+:07-26-2010 01:46:56 TimeManager:info: Local clock uncertainty +/- 0.215 s
+:07-26-2010 01:46:56 OTPClientRepository:info: gotTimeSync
+:07-26-2010 01:46:56 Loader:info: At end of block 'localAvatarPlayGame', expected 400, loaded 824
+:07-26-2010 01:46:56 Loader:info: starting bulk load of block 'hood'
+:07-26-2010 01:46:20 :dna: Reading /c/Program Files/Disney/Disney Online/Toontown_JP/phase_4/dna/storage.dna
+:07-26-2010 01:46:21 :text: Loading font /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3/models/fonts/MickeyFontFull.ttf
+:07-26-2010 01:46:21 :pnmtext: Loaded font HGPrettyFrankHS Regular
+:07-26-2010 01:46:21 :dna: Reading /c/Program Files/Disney/Disney Online/Toontown_JP/phase_3.5/dna/storage_interior.dna
+:07-26-2010 01:46:21 :dna: Reading /c/Program Files/Disney/Disney Online/Toontown_JP/phase_4/dna/storage_TT.dna
+:07-26-2010 01:46:22 :dna: Reading /c/Program Files/Disney/Disney Online/Toontown_JP/phase_4/dna/storage_TT_sz.dna
+:07-26-2010 01:46:24 :dna: Reading /c/Program Files/Disney/Disney Online/Toontown_JP/phase_4/dna/toontown_central_sz.dna
+:07-26-2010 01:46:56 Loader:info: At end of block 'hood', expected 8, loaded 14
+:07-26-2010 01:46:56 TaskManager(warning): task readerPollTask ran for 4.70 seconds
+:07-26-2010 01:46:56 CharNeutralState(warning): entered StateData before it was loaded
+:07-26-2010 01:46:25 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:46:25 :text(warning): No definition in MickeyFont_japanese.egg for character 65281
+:07-26-2010 01:46:56 DistributedToon:info: calling LocalAvatar.startchat
+:07-26-2010 01:46:26 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:46:56 CharWalkState(warning): entered StateData before it was loaded
+:07-26-2010 01:46:56 OTPClientRepository:info: Sending heartbeat mid-frame.
+:07-26-2010 01:46:56 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.319061279297; local time is 182.238891602 and server time is 4720192.5.
+:07-26-2010 01:46:56 OTPClientRepository:info: Sending heartbeat mid-frame.
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:07-26-2010 01:46:56 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.319488525391; local time is 198.233917236 and server time is 4720208.5.
+:07-26-2010 01:46:56 Playground:info: Unloading Place (2000). Fsm in final
+:07-26-2010 01:46:56 Actor(warning): no part named head-front*!
+:07-26-2010 01:46:56 Actor(warning): no part named eyes*!
+:07-26-2010 01:46:56 DistributedToon:info: calling LocalAvatar.startchat
+:07-26-2010 01:46:56 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.639450073242; local time is 221.669403076 and server time is 4720232.0.
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:07-26-2010 01:49:04 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.319610595703; local time is 239.24041748 and server time is 4720249.5.
+:07-26-2010 01:49:04 ToonInterior:info: Unloading Place (2520). Fsm in final
+:07-26-2010 01:49:04 CharNeutralState(warning): entered StateData before it was loaded
+:07-26-2010 01:49:04 CharWalkState(warning): entered StateData before it was loaded
+:07-26-2010 01:47:54 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:47:54 :text(warning): No definition in MickeyFont_japanese.egg for character 65281
+:07-26-2010 01:49:04 DistributedToon:info: calling LocalAvatar.startchat
+:07-26-2010 01:47:57 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:49:04 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.63786315918; local time is 247.725891113 and server time is 4720258.0.
+:07-26-2010 01:49:04 Playground:info: Unloading Place (2000). Fsm in final
+:07-26-2010 01:49:04 Actor(warning): called actor.removeNode() on fishing-pole without calling cleanup()
+:07-26-2010 01:49:04 DistributedToon:info: calling LocalAvatar.startchat
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:07-26-2010 01:49:04 ToonInterior:info: Unloading Place (2520). Fsm in final
+:07-26-2010 01:49:04 CharNeutralState(warning): entered StateData before it was loaded
+:07-26-2010 01:49:04 CharWalkState(warning): entered StateData before it was loaded
+:07-26-2010 01:48:30 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:48:30 :text(warning): No definition in MickeyFont_japanese.egg for character 65281
+:07-26-2010 01:49:04 DistributedToon:info: calling LocalAvatar.startchat
+:07-26-2010 01:49:04 DistributedToon:info: Suggesting resync for 102366457, with discrepency 0.319366455078; local time is 279.229949951 and server time is 4720289.5.
+:07-26-2010 01:49:04 ActorInterval(warning): Animations 'pole' on ﾐｽﾀｰ ﾛｲﾄﾞ ﾐｯｾﾞﾝﾏｳｽ have an inconsistent number of frames.
+:07-26-2010 01:48:35 :text(warning): No definition in MickeyFont_japanese.egg for character 58 (':')
+:07-26-2010 01:49:04 Actor(warning): called actor.removeNode() on fishing-pole without calling cleanup()
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+:07-26-2010 01:49:04 OTPClientRepository:info: Sending heartbeat mid-frame.
+:07-26-2010 01:48:43 :display: Closing wdxGraphicsWindow8
+:07-26-2010 01:48:43 :display:wdxdisplay8: D3D8.1 Adapter[0]: Mobile Intel(R) 4 Series Express Chipset Family, Driver: igdumdx32.dll, DriverVersion: (7.15.10.1527)
+VendorID: 0x00008086 DeviceID: 0x00002A42 SubsysID: 0x00191B0A Revision: 0x00000007
+:07-26-2010 01:48:43 :display:wdxdisplay8: walla: device13D16CB0:2
+:07-26-2010 01:49:04 ToonBase:info: Got window event: size=(800, 600) title="Toontown" !undecorated !fullscreen foreground !minimized open !cursor_hidden icon:toontown.ico cursor:toonmono.cur absolute 
+:07-26-2010 01:49:04 TaskManager(warning): task eventManager ran for 4.64 seconds
+:07-26-2010 01:49:04 TaskManager(warning): task igLoop ran for 41.97 seconds
+:07-26-2010 01:49:04 OTPClientRepository:info: Sending heartbeat mid-frame.
+:07-26-2010 01:49:04 OTPClientRepository(warning): Server is booting us out (100): Some one else just connected with this Account ConId,60155606,60155724 Acnt=100196210
+:07-26-2010 01:49:04 Actor(warning): called actor.removeNode() on fishing-pole without calling cleanup()
+:07-26-2010 01:49:04 OTPClientRepository(warning): Lost connection to gameserver.
+:07-26-2010 01:49:04 Playground:info: Unloading Place (2000). Fsm in final
+:07-26-2010 01:49:43 :distributed(warning): Could not send datagram.
+:07-26-2010 01:49:04 OTPClientRepository(warning): unclean exit, abandoning shard
+ignoring InputState-forward
+:07-26-2010 01:49:04 OTPClientRepository:info: sending clientLogout
+:07-26-2010 01:49:04 OptionsPage:info: writing new display settings (800, 600), 0, DirectX8 to SettingsFile.
+gardenPage Unloading
+:07-26-2010 01:49:04 DistributedToon(warning): コーラルドッグ was not present...
+:07-26-2010 01:49:04 LocalAvatar(warning): redundant call to stopUpdateSmartCamera
+Removing controls: swim
+Removing controls: ghost
+Removing controls: twoD
+Removing controls: observer
+Removing controls: walk
+:07-26-2010 01:49:04 OTPClientRepository(warning): Lost connection to server. Notifying user.
+:07-26-2010 01:49:04 OTPClientRepository(warning): Lost connection to gameserver.
+:07-26-2010 01:49:04 OTPClientRepository:info: Exiting cleanly
+:07-26-2010 01:49:04 ToonBase:info: Exiting Toontown: errorCode = None
+:07-26-2010 01:49:04 LauncherBase:info: setting panda error code to 0
+:07-26-2010 01:49:45 :display: Closing wdxGraphicsWindow8
+:07-26-2010 01:49:04 LauncherBase:info: Normal exit.

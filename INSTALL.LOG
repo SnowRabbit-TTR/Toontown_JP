@@ -1,0 +1,463 @@
+***  Installation Started 03/03/2009 19:50  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 1
+Made Dir: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 04/19/2009 16:38  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 08/12/2009 13:26  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 08/25/2009 11:11  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 12/11/2009 17:24  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\_strptime.py
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 12/25/2009 18:34  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_strptime.py
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 03/28/2010 20:10  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_strptime.py
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 06/05/2010 17:27  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_strptime.py
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
+***  Installation Started 08/31/2010 11:30  ***
+Title: トゥーンタウン・オンライン インストール
+Source: C:\Program Files\Disney\Disney Online\Toontown_JP\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.EXE
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\UNWISE.INI
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libheapq.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\libpandaode.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcp71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\msvcr71.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\python24.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\pywintypes24.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_ctypes.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown_JP\_strptime.py
+RegDB Key: Software\Disney\Disney Online\Toontown_JP
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 1
+RegDB Old: 1
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\トゥーンタウンで遊ぶ.lnk
+Shell Link: C:\Users\AKY\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\トゥーンタウン・オンライン\アンインストール.lnk
+Shell Link: C:\Users\AKY\Desktop\トゥーンタウン・オンライン.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\Configrc.exe -uninstall_activex
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown_JP\uninst.exe
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown_JP\*.*
+File Tree: C:\Users\AKY\AppData\Local\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown_JP
+RegDB Root: 2
+You do not have access to make the required system configuration modifications. Please rerun this installation from an administrators account.
